@@ -16,6 +16,7 @@ if __name__ == '__main__':
     cmd2 = 'git config --local user.email gbrouwer5151@gmail.com'
 
     #Set Remote
+    cmd9 = 'git remote add origin https://github.com/gbrouwer/' + repo + '.git'
     cmd3 = 'git remote set-url origin https://github.com/gbrouwer/' + repo + '.git'
 
     #Add/Commit and Push everthing
@@ -30,6 +31,8 @@ if __name__ == '__main__':
     os.system(cmd1)
     print(cmd2)
     os.system(cmd2)
+    print(cmd9)
+    os.system(cmd9)
     print(cmd3)
     os.system(cmd3)
     print(cmd4)
