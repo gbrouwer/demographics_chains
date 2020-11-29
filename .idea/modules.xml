@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../gjb-demographics-chains/.idea/gjb-demographics-chains.iml" filepath="$PROJECT_DIR$/../gjb-demographics-chains/.idea/gjb-demographics-chains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/demographics_chains.iml" filepath="$PROJECT_DIR$/.idea/demographics_chains.iml" />
     </modules>
   </component>
 </project>

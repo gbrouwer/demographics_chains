@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b5a1b59-48e7-4243-978d-ea8e371d6cd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/demographics_chains.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gjb-demographics-chains.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/01 - Extract Addresses-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/02 - Chains to Dataframe-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/03 - Remove Chains outside NYC-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/04 - Address to Indices-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/05 - Address to LatLng-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/06 - Build Graph - Brooklyn-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/06 - Build Graph - Manhattan-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/06 - Build Graph - Queens-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/06 - Build Graph - Staten Island-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/06 - Build Graph - The Bronx-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/07 - Build Graph - Add Borough Connectors-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/08 - Chains to Node-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/09 - Compile Demographics - Blockgroups-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/09 - Compile Demographics - Tracts-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/10 - Tracts to Chain Nodes-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/11 - Graph Distances - Chains -&gt; Tracts - Complex-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/11 - Graph Distances - Chains -&gt; Tracts-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/.ipynb_checkpoints/11 - Graph Distances-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/01 - Extract Addresses.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/02 - Chains to Dataframe.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/03 - Remove Chains outside NYC.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/04 - Address to Indices.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/05 - Address to LatLng.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/06 - Build Graph - Brooklyn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/06 - Build Graph - Manhattan.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/06 - Build Graph - Queens.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/06 - Build Graph - Staten Island.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/06 - Build Graph - The Bronx.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/07 - Build Graph - Add Borough Connectors.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/08 - Chains to Node.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/09 - Compile Demographics - Blockgroups.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/09 - Compile Demographics - Tracts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/10 - Tracts to Chain Nodes-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/11 - Graph Distances - Chains -&gt; Tracts - Complex.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/11 - Graph Distances - Chains -&gt; Tracts.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/labs/11 - Graph Distances.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compute_distances.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/compute_distances.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compute_distances_boroughs.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/compute_distances_boroughs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/correct_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/correct_tables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scrape_yellow_pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/python/scrape_yellow_pages.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b2ab458a-e402-4f40-a96a-f6bd494e11ec" />
+  <component name="ProjectId" id="1kyv8GdAPEtk3Axr3FJSp6vFg8X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/python" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b5a1b59-48e7-4243-978d-ea8e371d6cd2" name="Default Changelist" comment="" />
+      <created>1606685485218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606685485218</updated>
+      <workItem from="1606685486288" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
